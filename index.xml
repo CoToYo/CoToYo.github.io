@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>My New Hugo Site</title>
+        <link>https://CoToYo.github.io/</link>
+        <description>Recent content on My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 18 Jan 2022 22:22:46 +0800</lastBuildDate><atom:link href="https://CoToYo.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Leon的第一篇博客</title>
+        <link>https://CoToYo.github.io/post/blog_1/</link>
+        <pubDate>Tue, 18 Jan 2022 22:22:46 +0800</pubDate>
+        
+        <guid>https://CoToYo.github.io/post/blog_1/</guid>
+        <description>&lt;h1 id=&#34;hi-很高兴认识你&#34;&gt;Hi, 很高兴认识你！&lt;/h1&gt;
+&lt;h2 id=&#34;我是leon&#34;&gt;我是Leon。&lt;/h2&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
